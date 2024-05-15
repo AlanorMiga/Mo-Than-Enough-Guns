@@ -1,0 +1,28 @@
+{
+    "type": "mteg:mo_workbench",
+    "result": {
+        "item": "mteg:wrapped_rifle"
+    },
+    "materials": [
+        {
+            "item": "minecraft:iron_ingot",
+            "count": 9
+        },
+        {
+            "item": "jeg:scrap",
+            "count": 15
+        },
+        {
+            "item": "minecraft:red_wool",
+            "count": 12
+        },
+        {
+            "item": "minecraft:redstone",
+            "count": 2
+        },
+        {
+            "item": "minecraft:glass_pane",
+            "count": 10
+        }
+    ]
+}

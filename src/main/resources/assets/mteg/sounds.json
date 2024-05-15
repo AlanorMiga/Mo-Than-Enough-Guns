@@ -1,0 +1,363 @@
+{
+  "item.scar_l.fire": {
+    "subtitle": "subtitle.jeg.fire",
+    "sounds": [
+      { "name": "mteg:item/scar_l/fire" }
+    ]
+  },
+  "item.scar_l.suppressed_fire": {
+    "subtitle": "subtitle.jeg.fire.silenced",
+    "sounds": [
+      { "name": "mteg:item/scar_l/suppressed_fire" }
+    ]
+  },
+  "item.scar_l.cock": {
+    "subtitle": "subtitle.scar_l.cock",
+    "sounds": [
+      { "name": "mteg:item/scar_l/cock" }
+    ]
+  },
+  "item.g36c.fire": {
+    "subtitle": "subtitle.jeg.fire",
+    "sounds": [
+      { "name": "mteg:item/g36c/fire" }
+    ]
+  },
+  "item.g36c.suppressed_fire": {
+    "subtitle": "subtitle.jeg.fire.silenced",
+    "sounds": [
+      { "name": "mteg:item/g36c/suppressed_fire" }
+    ]
+  },
+  "item.g36c.cock": {
+    "subtitle": "subtitle.g36c.cock",
+    "sounds": [
+      { "name": "mteg:item/g36c/cock" }
+    ]
+  },
+  "item.trashcan.boom": {
+    "subtitle": "subtitle.trashcan.boom",
+    "sounds": [
+      { "name": "mteg:item/boom" }
+    ]
+  },
+  "item.trashcan.reload": {
+    "subtitle": "subtitle.trashcan.reload",
+    "sounds": [
+      { "name": "mteg:item/trashcanreload" }
+    ]
+  },
+  "item.big_iron.fire": {
+    "subtitle": "subtitle.big_iron.pew",
+    "sounds": [
+      { "name": "mteg:item/big_iron" }
+    ]
+  },
+  "item.akm.fire": {
+    "subtitle": "subtitle.jeg.fire",
+    "sounds": [
+      { "name": "mteg:item/akm/fire" }
+    ]
+  },
+  "item.akm.cock": {
+    "subtitle": "subtitle.akm.cock",
+    "sounds": [
+      { "name": "mteg:item/akm/cock" }
+    ]
+  },
+  "item.as_val.fire": {
+    "subtitle": "subtitle.jeg.fire",
+    "sounds": [
+      { "name": "mteg:item/as_val/fire" }
+    ]
+  },
+  "item.as_val.cock": {
+    "subtitle": "subtitle.as_val.cock",
+    "sounds": [
+      { "name": "mteg:item/as_val/cock" }
+    ]
+  },
+  "item.thompson.fire": {
+    "subtitle": "subtitle.jeg.fire",
+    "sounds": [
+      { "name": "mteg:item/thompson/fire" }
+    ]
+  },
+  "item.thompson.cock": {
+    "subtitle": "subtitle.thompson.cock",
+    "sounds": [
+      { "name": "mteg:item/thompson/cock" }
+    ]
+  },
+  "item.m16a1.fire": {
+    "subtitle": "subtitle.jeg.fire",
+    "sounds": [
+      { "name": "mteg:item/m16a1/fire" }
+    ]
+  },
+  "item.m16a1.cock": {
+    "subtitle": "subtitle.m16a1.cock",
+    "sounds": [
+      { "name": "mteg:item/m16a1/cock" }
+    ]
+  },
+  "item.famas.fire": {
+    "subtitle": "subtitle.jeg.fire",
+    "sounds": [
+      { "name": "mteg:item/famas/fire" }
+    ]
+  },
+  "item.famas.cock": {
+    "subtitle": "subtitle.famas.cock",
+    "sounds": [
+      { "name": "mteg:item/famas/cock" }
+    ]
+  },
+  "item.m1_garand.fire": {
+    "subtitle": "subtitle.jeg.fire",
+    "sounds": [
+      { "name": "mteg:item/m1_garand/fire" }
+    ]
+  },
+  "item.m1_garand.cock": {
+    "subtitle": "subtitle.m1_garand.cock",
+    "sounds": [
+      { "name": "mteg:item/m1_garand/cock" }
+    ]
+  },
+  "item.m1_garand.ping": {
+    "subtitle": "subtitle.m1_garand.ping",
+    "sounds": [
+      { "name": "mteg:item/m1_garand/ping" }
+    ]
+  },
+  "item.benelli_m4.fire": {
+    "subtitle": "subtitle.jeg.fire",
+    "sounds": [
+      { "name": "mteg:item/benelli_m4/fire" }
+    ]
+  }
+  ,
+  "item.benelli_m4.cock": {
+    "subtitle": "subtitle.benelli_m4.cock",
+    "sounds": [
+      { "name": "mteg:item/benelli_m4/cock" }
+    ]
+  },
+  "item.glock_17.fire": {
+    "subtitle": "subtitle.jeg.fire",
+    "sounds": [
+      { "name": "mteg:item/m1911/fire" }
+    ]
+  },
+  "item.glock_17.cock": {
+    "subtitle": "subtitle.glock_17.cock",
+    "sounds": [
+      { "name": "mteg:item/m1911/cock" }
+    ]
+  },
+  "item.glock_17.suppressed_fire": {
+    "subtitle": "subtitle.jeg.fire.silenced",
+    "sounds": [
+      { "name": "mteg:item/glock_17/suppressed_fire" }
+    ]
+  },
+  "item.m14_ebr.fire": {
+    "subtitle": "subtitle.jeg.fire",
+    "sounds": [
+      { "name": "mteg:item/m14_ebr/fire" }
+    ]
+  },
+  "item.m14_ebr.cock": {
+    "subtitle": "subtitle.m14_ebr.cock",
+    "sounds": [
+      { "name": "mteg:item/m14_ebr/cock" }
+    ]
+  },
+  "item.m1911.fire": {
+    "subtitle": "subtitle.jeg.fire",
+    "sounds": [
+      { "name": "mteg:item/m1911/fire" }
+    ]
+  },
+  "item.m1911.cock": {
+    "subtitle": "subtitle.m1911.cock",
+    "sounds": [
+      { "name": "mteg:item/m1911/cock" }
+    ]
+  },
+  "item.mossberg_590.fire": {
+    "subtitle": "subtitle.jeg.fire",
+    "sounds": [
+      { "name": "mteg:item/mossberg_590/fire" }
+    ]
+  },
+  "item.mossberg_590.cock": {
+    "subtitle": "subtitle.mossberg_590.cock",
+    "sounds": [
+      { "name": "mteg:item/mossberg_590/cock" }
+    ]
+  },
+  "item.remington_870.fire": {
+    "subtitle": "subtitle.jeg.fire",
+    "sounds": [
+      { "name": "mteg:item/remington_870/fire" }
+    ]
+  },
+  "item.remington_870.cock": {
+    "subtitle": "subtitle.remington_870.cock",
+    "sounds": [
+      { "name": "mteg:item/remington_870/cock" }
+    ]
+  },
+  "item.uzi.fire": {
+    "subtitle": "subtitle.jeg.fire",
+    "sounds": [
+      { "name": "mteg:item/uzi/fire" }
+    ]
+  },
+  "item.welrod.fire": {
+    "subtitle": "subtitle.jeg.fire",
+    "sounds": [
+      { "name": "mteg:item/welrod/fire" }
+    ]
+  },
+  "item.welrod.cock": {
+    "subtitle": "subtitle.welrod.cock",
+    "sounds": [
+      { "name": "mteg:item/welrod/cock" }
+    ]
+  },
+  "item.glockest_glock.fire": {
+    "subtitle": "subtitle.jeg.fire",
+    "sounds": [
+      { "name": "mteg:item/glockest_glock.fire" }
+    ]
+  },
+  "item.glockest_glock.cock": {
+    "subtitle": "subtitle.glockest_glock.cock",
+    "sounds": [
+      { "name": "mteg:item/glockest_glock.cock" }
+    ]
+  },
+  "item.glockest_glock.reload": {
+    "subtitle": "subtitle.glockest_glock.reload",
+    "sounds": [
+      { "name": "mteg:item/glockest_glock_reload" }
+    ]
+  },
+  "item.baker_rifle.fire": {
+    "subtitle": "subtitle.jeg.fire",
+    "sounds": [
+      { "name": "mteg:item/baker_rifle/fire" }
+    ]
+  },
+  "item.baker_rifle.cock": {
+    "subtitle": "subtitle.baker_rifle.cock",
+    "sounds": [
+      { "name": "mteg:item/baker_rifle/cock" }
+    ]
+  },
+  "item.lanchester.fire": {
+    "subtitle": "subtitle.jeg.fire",
+    "sounds": [
+      { "name": "mteg:item/lanchester/fire" }
+    ]
+  },
+  "item.lanchester.cock": {
+    "subtitle": "subtitle.lanchester.cock",
+    "sounds": [
+      { "name": "mteg:item/lanchester/cock" }
+    ]
+  },
+  "item.mp5.fire": {
+    "subtitle": "subtitle.jeg.fire",
+    "sounds": [
+      { "name": "mteg:item/mp5/fire" }
+    ]
+  },
+  "item.mp5.cock": {
+    "subtitle": "subtitle.mp5.cock",
+    "sounds": [
+      { "name": "mteg:item/mp5/cock" }
+    ]
+  },
+  "item.ppsh_41.fire": {
+    "subtitle": "subtitle.jeg.fire",
+    "sounds": [
+      { "name": "mteg:item/ppsh_41/fire" }
+    ]
+  },
+  "item.ppsh_41.cock": {
+    "subtitle": "subtitle.ppsh_41.cock",
+    "sounds": [
+      { "name": "mteg:item/ppsh_41/cock" }
+    ]
+  },
+  "item.wrapped_rifle.fire": {
+    "subtitle": "subtitle.jeg.fire",
+    "sounds": [
+      { "name": "mteg:item/wrapped_rifle/fire" }
+    ]
+  },
+  "item.wrapped_rifle.cock": {
+    "subtitle": "subtitle.wrapped_rifle.cock",
+    "sounds": [
+      { "name": "mteg:item/wrapped_rifle/cock" }
+    ]
+  },
+  "item.hellfire.fire": {
+    "subtitle": "subtitle.jeg.fire",
+    "sounds": [
+      { "name": "mteg:item/hellfire/fire" }
+    ]
+  },
+  "item.m2_flamethrower.fire": {
+    "subtitle": "subtitle.jeg.fire",
+    "sounds": [
+      { "name": "mteg:item/m2_flamethrower/fire" }
+    ]
+  },
+  "item.flare_gun.fire": {
+    "subtitle": "subtitle.jeg.fire",
+    "sounds": [
+      { "name": "mteg:item/flare_gun/fire" }
+    ]
+  },
+  "item.flare_gun.cock": {
+    "subtitle": "subtitle.flare_gun.cock",
+    "sounds": [
+      { "name": "mteg:item/flare_gun/cock" }
+    ]
+  },
+  "item.flare_gun.reload": {
+    "subtitle": "subtitle.flare_gun.reload",
+    "sounds": [
+      { "name": "mteg:item/flare_gun/reload" }
+    ]
+  },
+  "item.awp.fire": {
+    "subtitle": "subtitle.jeg.fire",
+    "sounds": [
+      { "name": "mteg:item/awp/fire" }
+    ]
+  },
+  "item.awp.bolt": {
+    "subtitle": "subtitle.awp.bolt",
+    "sounds": [
+      { "name": "mteg:item/awp/bolt" }
+    ]
+  },
+  "item.awp.suppressed_fire": {
+    "subtitle": "subtitle.jeg.fire.silenced",
+    "sounds": [
+      { "name": "mteg:item/awp/suppressed_fire" }
+    ]
+  },
+  "item.trumpet.doot": {
+    "subtitle": "subtitle.mteg.doot",
+    "sounds": [
+      { "name": "mteg:item/doot" }
+    ]
+  }
+}

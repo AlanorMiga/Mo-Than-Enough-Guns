@@ -1,0 +1,16 @@
+{
+    "type": "mteg:mo_workbench",
+    "result": {
+        "item": "mteg:walther_ppk"
+    },
+    "materials": [
+        {
+            "item": "minecraft:iron_ingot",
+            "count": 10
+        },
+        {
+            "item": "jeg:scrap",
+            "count": 4
+        }
+    ]
+}

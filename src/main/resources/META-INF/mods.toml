@@ -1,0 +1,36 @@
+modLoader="javafml" #mandatory
+loaderVersion="[40,)" #mandatory
+license="GNU GPLv3" #mandatory
+
+[[mods]]
+modId="mteg"
+version="1.0.1"
+displayName="Mo' Than Enough Guns"
+authors="MigaMi"
+credits="Bomb787, MrCrayfish"
+description="All the Mo' Guns weapons in the JEG Framework!"
+
+[[dependencies.mteg]]
+    modId="forge"
+    mandatory=true
+    versionRange="[46, 48)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.mteg]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20, 1.20.2)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.mteg]]
+    modId="jeg"
+    mandatory=true
+    versionRange="[0.3.1,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.mteg]]
+    modId="framework"
+    mandatory=true
+    versionRange="[0.6.16,)"
+    ordering="NONE"
+    side="BOTH"

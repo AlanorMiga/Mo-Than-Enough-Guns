@@ -1,0 +1,16 @@
+{
+    "type": "mteg:mo_workbench",
+    "result": {
+        "item": "mteg:m2_flamethrower"
+    },
+    "materials": [
+        {
+            "item": "minecraft:iron_ingot",
+            "count": 48
+        },
+        {
+            "item": "jeg:scrap",
+            "count": 27
+        }
+    ]
+}

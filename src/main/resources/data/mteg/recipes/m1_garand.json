@@ -1,0 +1,24 @@
+{
+    "type": "mteg:mo_workbench",
+    "result": {
+        "item": "mteg:m1_garand"
+    },
+    "materials": [
+        {
+            "item": "minecraft:iron_ingot",
+            "count": 3
+        },
+        {
+            "item": "jeg:scrap",
+            "count": 10
+        },
+        {
+            "item": "minecraft:spruce_planks",
+            "count": 5
+        },
+        {
+            "item": "minecraft:lever",
+            "count": 1
+        }
+    ]
+}

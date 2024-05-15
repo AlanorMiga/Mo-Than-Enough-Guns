@@ -1,0 +1,28 @@
+{
+    "type": "mteg:mo_workbench",
+    "result": {
+        "item": "mteg:lanchester"
+    },
+    "materials": [
+        {
+            "item": "minecraft:spruce_planks",
+            "count": 4
+        },
+        {
+            "item": "jeg:scrap",
+            "count": 10
+        },
+	{
+            "item": "minecraft:gold_ingot",
+            "count": 1
+        },
+	{
+            "item": "minecraft:iron_ingot",
+            "count": 5
+        },
+	{
+            "item": "minecraft:black_dye",
+            "count": 1
+        }
+    ]
+}

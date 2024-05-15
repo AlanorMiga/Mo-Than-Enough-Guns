@@ -1,0 +1,53 @@
+{
+  "display": {
+    "flash": {
+      "size": 0.8,
+      "yOffset": 4.0,
+      "zOffset": -13.0
+    }
+  },
+  "general": {
+    "fireMode": "jeg:semi_automatic",
+    "gripType": "jeg:two_handed",
+    "rate": 20,
+    "recoilAngle": 14.0,
+    "recoilKick": 0.25,
+    "spread": 1.0
+  },
+  "modules": {
+    "attachments": {
+      "scope": {
+        "scale": 1.5,
+        "yOffset": 3.9,
+        "zOffset": 4.0
+      }
+    },
+    "zoom": {
+      "fovModifier": 0.6,
+      "yOffset": 4.4,
+      "zOffset": 2.75
+    }
+  },
+  "projectile": {
+    "advantage": "jeg:none",
+    "damage": 18.0,
+    "ejectsCasing": true,
+    "item": "jeg:shotgun_shell",
+    "life": 80,
+    "size": 0.05,
+    "speed": 20.0,
+    "trailLengthMultiplier": 2.0
+  },
+  "reloads": {
+    "emptyMagTimer": 5,
+    "maxAmmo": 6,
+    "reloadItem": "jeg:scrap",
+    "reloadTimer": 20,
+    "reloadType": "jeg:manual"
+  },
+  "sounds": {
+    "cock": "mteg:item.remington_870.cock",
+    "fire": "mteg:item.remington_870.fire",
+    "reload": "jeg:item.pistol.reload"
+  }
+}
