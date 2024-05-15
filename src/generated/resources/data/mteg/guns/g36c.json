@@ -1,0 +1,68 @@
+{
+  "display": {
+    "flash": {
+      "size": 0.8,
+      "yOffset": 3.6,
+      "zOffset": -6.41
+    }
+  },
+  "general": {
+    "alwaysSpread": true,
+    "fireMode": "jeg:automatic",
+    "gripType": "jeg:two_handed",
+    "rate": 2,
+    "recoilAngle": 3.0,
+    "recoilKick": 0.25,
+    "spread": 2.0
+  },
+  "modules": {
+    "attachments": {
+      "barrel": {
+        "scale": 1.5,
+        "yOffset": 3.6,
+        "zOffset": -10.0
+      },
+      "scope": {
+        "scale": 1.5,
+        "yOffset": 5.1,
+        "zOffset": 3.75
+      },
+      "stock": {
+        "scale": 0.0
+      },
+      "underBarrel": {
+        "scale": 1.5,
+        "yOffset": 2.0,
+        "zOffset": -1.0
+      }
+    },
+    "zoom": {
+      "fovModifier": 0.6,
+      "yOffset": 5.9,
+      "zOffset": 2.75
+    }
+  },
+  "projectile": {
+    "advantage": "jeg:heavy",
+    "damage": 6.0,
+    "ejectsCasing": true,
+    "item": "jeg:rifle_ammo",
+    "life": 80,
+    "size": 0.05,
+    "speed": 18.0,
+    "trailLengthMultiplier": 2.0
+  },
+  "reloads": {
+    "emptyMagTimer": 10,
+    "maxAmmo": 30,
+    "reloadItem": "jeg:scrap",
+    "reloadTimer": 30,
+    "reloadType": "jeg:mag_fed"
+  },
+  "sounds": {
+    "cock": "mteg:item.g36c.cock",
+    "fire": "mteg:item.g36c.fire",
+    "reload": "jeg:item.pistol.reload",
+    "silencedFire": "mteg:item.g36c.suppressed_fire"
+  }
+}

@@ -1,0 +1,20 @@
+{
+    "type": "mteg:mo_workbench",
+    "result": {
+        "item": "mteg:benelli_m4"
+    },
+    "materials": [
+        {
+            "item": "minecraft:iron_ingot",
+            "count": 28
+        },
+        {
+            "item": "jeg:scrap",
+            "count": 10
+        },
+        {
+        	"item": "minecraft:black_dye",
+        	"count": 5
+        }
+    ]
+}

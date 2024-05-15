@@ -1,0 +1,10 @@
+{
+  "type": "mteg:hog_bonker_from_brute",
+  "conditions": [
+    {
+      "condition": "forge:loot_table_id",
+      "loot_table_id": "minecraft:entities/piglin_brute"
+    }
+  ],
+  "item": "mteg:hog_bonker"
+}

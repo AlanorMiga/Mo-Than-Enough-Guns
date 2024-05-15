@@ -1,0 +1,36 @@
+{
+    "type": "mteg:mo_workbench",
+    "result": {
+        "item": "mteg:hellfire"
+    },
+    "materials": [
+        {
+            "item": "minecraft:iron_ingot",
+            "count": 13
+        },
+        {
+            "item": "minecraft:gold_ingot",
+            "count": 8
+        },
+        {
+            "item": "jeg:scrap",
+            "count": 7
+        },
+        {
+            "item": "minecraft:nether_brick",
+            "count": 8
+        },
+        {
+            "item": "minecraft:magma_block",
+            "count": 3
+        },
+        {
+            "item": "minecraft:nether_wart_block",
+            "count": 6
+        },
+        {
+            "item": "minecraft:blaze_rod",
+            "count": 1
+        }
+    ]
+}

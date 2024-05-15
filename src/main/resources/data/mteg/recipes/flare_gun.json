@@ -1,0 +1,24 @@
+{
+    "type": "mteg:mo_workbench",
+    "result": {
+        "item": "mteg:flare_gun"
+    },
+    "materials": [
+        {
+            "item": "minecraft:iron_ingot",
+            "count": 5
+        },
+        {
+            "item": "jeg:scrap",
+            "count": 3
+        },
+        {
+            "item": "minecraft:orange_dye",
+            "count": 1
+        },
+        {
+            "item": "minecraft:black_dye",
+            "count": 1
+        }
+    ]
+}

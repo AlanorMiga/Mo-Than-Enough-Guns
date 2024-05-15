@@ -1,0 +1,47 @@
+{
+  "display": {
+    "flash": {
+      "size": 1.0,
+      "yOffset": 3.0,
+      "zOffset": 3.0
+    }
+  },
+  "general": {
+    "alwaysSpread": true,
+    "fireMode": "jeg:semi_automatic",
+    "gripType": "jeg:one_handed",
+    "rate": 100,
+    "recoilAngle": 3.0,
+    "recoilKick": 0.35,
+    "spread": 3.0
+  },
+  "modules": {
+    "zoom": {
+      "fovModifier": 0.7,
+      "yOffset": 3.7,
+      "zOffset": 2.75
+    }
+  },
+  "projectile": {
+    "advantage": "jeg:none",
+    "damage": 2.0,
+    "gravity": true,
+    "item": "mteg:flare",
+    "life": 100,
+    "size": 0.2,
+    "speed": 3.0,
+    "trailColor": 16765577
+  },
+  "reloads": {
+    "emptyMagTimer": 5,
+    "maxAmmo": 1,
+    "reloadItem": "jeg:scrap",
+    "reloadTimer": 20,
+    "reloadType": "jeg:manual"
+  },
+  "sounds": {
+    "cock": "mteg:item.flare_gun.cock",
+    "fire": "mteg:item.flare_gun.fire",
+    "reload": "mteg:item.flare_gun.reload"
+  }
+}
