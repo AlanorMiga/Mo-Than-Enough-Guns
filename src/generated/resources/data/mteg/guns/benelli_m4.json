@@ -1,0 +1,68 @@
+{
+  "display": {
+    "flash": {
+      "size": 0.8,
+      "yOffset": 4.0,
+      "zOffset": -13.0
+    }
+  },
+  "general": {
+    "alwaysSpread": true,
+    "fireMode": "jeg:semi_automatic",
+    "gripType": "jeg:two_handed",
+    "projectileAmount": 6,
+    "rate": 15,
+    "recoilAngle": 10.0,
+    "recoilKick": 0.25,
+    "spread": 10.0
+  },
+  "modules": {
+    "attachments": {
+      "barrel": {
+        "scale": 1.5,
+        "yOffset": 3.7,
+        "zOffset": -15.5
+      },
+      "scope": {
+        "scale": 1.5,
+        "yOffset": 4.3,
+        "zOffset": 2.2
+      },
+      "stock": {
+        "scale": 0.0
+      },
+      "underBarrel": {
+        "scale": 1.5,
+        "yOffset": 1.5,
+        "zOffset": -2.3
+      }
+    },
+    "zoom": {
+      "fovModifier": 0.6,
+      "yOffset": 4.6,
+      "zOffset": 2.75
+    }
+  },
+  "projectile": {
+    "advantage": "jeg:none",
+    "damage": 20.0,
+    "ejectsCasing": true,
+    "item": "jeg:shotgun_shell",
+    "life": 8,
+    "size": 0.05,
+    "speed": 20.0,
+    "trailLengthMultiplier": 2.0
+  },
+  "reloads": {
+    "emptyMagTimer": 5,
+    "maxAmmo": 8,
+    "reloadItem": "jeg:scrap",
+    "reloadTimer": 20,
+    "reloadType": "jeg:manual"
+  },
+  "sounds": {
+    "cock": "mteg:item.benelli_m4.cock",
+    "fire": "mteg:item.benelli_m4.fire",
+    "reload": "jeg:item.pistol.reload"
+  }
+}

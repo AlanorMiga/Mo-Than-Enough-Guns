@@ -1,0 +1,28 @@
+{
+    "type": "mteg:mo_workbench",
+    "result": {
+        "item": "mteg:blue_heat"
+    },
+    "materials": [
+        {
+            "item": "minecraft:iron_ingot",
+            "count": 10
+        },
+        {
+            "item": "minecraft:gold_ingot",
+            "count": 8
+        },
+        {
+            "item": "jeg:scrap",
+            "count": 8
+        },
+        {
+            "item": "minecraft:warped_wart_block",
+            "count": 8
+        },
+        {
+            "item": "minecraft:blaze_rod",
+            "count": 1
+        }
+    ]
+}

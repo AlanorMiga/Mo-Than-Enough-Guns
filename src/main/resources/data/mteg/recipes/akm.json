@@ -1,0 +1,24 @@
+{
+    "type": "mteg:mo_workbench",
+    "result": {
+        "item": "mteg:akm"
+    },
+    "materials": [
+        {
+            "item": "minecraft:iron_ingot",
+            "count": 18
+        },
+        {
+            "item": "jeg:scrap",
+            "count": 10
+        },
+        {
+            "item": "minecraft:black_dye",
+            "count": 3
+        },
+        {
+            "item": "minecraft:spruce_planks",
+            "count": 10
+        }
+    ]
+}

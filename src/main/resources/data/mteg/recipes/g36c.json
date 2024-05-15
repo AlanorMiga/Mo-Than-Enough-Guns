@@ -1,0 +1,20 @@
+{
+    "type": "mteg:mo_workbench",
+    "result": {
+        "item": "mteg:g36c"
+    },
+    "materials": [
+        {
+            "item": "minecraft:iron_ingot",
+            "count": 22
+        },
+        {
+            "item": "jeg:scrap",
+            "count": 13
+        },
+        {
+            "item": "minecraft:ink_sac",
+            "count": 6
+        }
+    ]
+}

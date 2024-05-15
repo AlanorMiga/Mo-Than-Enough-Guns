@@ -1,0 +1,20 @@
+{
+    "type": "mteg:mo_workbench",
+    "result": {
+        "item": "mteg:welrod"
+    },
+    "materials": [
+        {
+            "item": "minecraft:iron_ingot",
+            "count": 5
+        },
+        {
+            "item": "jeg:scrap",
+            "count": 1
+        },
+        {
+            "item": "jeg:silencer",
+            "count": 1
+        }
+    ]
+}

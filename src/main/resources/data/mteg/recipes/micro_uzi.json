@@ -1,0 +1,20 @@
+{
+    "type": "mteg:mo_workbench",
+    "result": {
+        "item": "mteg:micro_uzi"
+    },
+    "materials": [
+        {
+            "item": "minecraft:iron_ingot",
+            "count": 15
+        },
+        {
+            "item": "jeg:scrap",
+            "count": 7
+        },
+        {
+            "item": "minecraft:tripwire_hook",
+            "count": 1
+        }
+    ]
+}

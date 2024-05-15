@@ -1,0 +1,20 @@
+{
+    "type": "mteg:mo_workbench",
+    "result": {
+        "item": "mteg:m1911"
+    },
+    "materials": [
+        {
+            "item": "minecraft:iron_ingot",
+            "count": 16
+        },
+        {
+            "item": "jeg:scrap",
+            "count": 7
+        },
+        {
+        	"item": "minecraft:oak_planks",
+        	"count": 2
+        }
+    ]
+}

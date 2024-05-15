@@ -1,0 +1,20 @@
+{
+    "type": "mteg:mo_workbench",
+    "result": {
+        "item": "mteg:remington_870"
+    },
+    "materials": [
+        {
+            "item": "minecraft:iron_ingot",
+            "count": 24
+        },
+        {
+            "item": "jeg:scrap",
+            "count": 16
+        },
+        {
+        	"item": "minecraft:oak_log",
+        	"count": 6
+        }
+    ]
+}

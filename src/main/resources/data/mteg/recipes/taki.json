@@ -1,0 +1,20 @@
+{
+    "type": "mteg:mo_workbench",
+    "result": {
+        "item": "mteg:taki","count": 10
+    },
+    "materials": [
+        {
+            "item": "minecraft:wheat",
+            "count": 1
+        },
+        {
+            "item": "minecraft:blaze_powder",
+            "count": 1
+        },
+        {
+            "item": "minecraft:red_dye",
+            "count": 1
+        }
+    ]
+}
