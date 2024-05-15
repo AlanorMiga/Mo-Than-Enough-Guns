@@ -1,0 +1,29 @@
+{
+    "type": "mteg:mo_workbench",
+    "result": {
+        "item": "mteg:double_barrel"
+    },
+    "materials": [
+        {
+            "item": "minecraft:iron_ingot",
+            "count": 16
+        },
+        {
+            "item": "jeg:scrap",
+            "count": 5
+        },
+        {
+            "item": "minecraft:gray_dye",
+            "count": 2
+        },
+        {
+            "item": "minecraft:lever",
+            "count": 1
+
+        },
+        {
+            "item": "minecraft:spruce_planks",
+            "count": 2
+        }
+    ]
+}

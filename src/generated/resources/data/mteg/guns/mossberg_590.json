@@ -1,0 +1,55 @@
+{
+  "general": {
+    "fireMode": "jeg:semi_automatic",
+    "rate": 17,
+    "gripType": "jeg:two_handed",
+    "recoilAngle": 12.0,
+    "recoilKick": 0.25,
+    "projectileAmount": 8,
+    "alwaysSpread": true,
+    "spread": 8.0
+  },
+  "reloads": {
+    "reloadItem": "jeg:scrap",
+    "maxAmmo": 8,
+    "reloadType": "jeg:manual",
+    "reloadTimer": 20,
+    "emptyMagTimer": 5
+  },
+  "projectile": {
+    "item": "jeg:shotgun_shell",
+    "ejectsCasing": true,
+    "damage": 22.0,
+    "advantage": "jeg:none",
+    "size": 0.05,
+    "speed": 20.0,
+    "life": 8,
+    "trailLengthMultiplier": 2.0
+  },
+  "sounds": {
+    "fire": "mteg:item.mossberg_590.fire",
+    "reload": "jeg:item.pistol.reload",
+    "cock": "mteg:item.mossberg_590.cock"
+  },
+  "display": {
+    "flash": {
+      "yOffset": 4.0,
+      "zOffset": -13.0,
+      "size": 0.8
+    }
+  },
+  "modules": {
+    "zoom": {
+      "yOffset": 4.4,
+      "zOffset": 2.75,
+      "fovModifier": 0.6
+    },
+    "attachments": {
+      "scope": {
+        "yOffset": 4.0,
+        "zOffset": 4.0,
+        "scale": 1.5
+      }
+    }
+  }
+}

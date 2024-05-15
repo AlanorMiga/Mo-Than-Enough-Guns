@@ -1,0 +1,68 @@
+{
+  "general": {
+    "fireMode": "jeg:semi_automatic",
+    "rate": 15,
+    "gripType": "jeg:two_handed",
+    "recoilAngle": 10.0,
+    "recoilKick": 0.25,
+    "projectileAmount": 6,
+    "alwaysSpread": true,
+    "spread": 10.0
+  },
+  "reloads": {
+    "reloadItem": "jeg:scrap",
+    "maxAmmo": 8,
+    "reloadType": "jeg:manual",
+    "reloadTimer": 20,
+    "emptyMagTimer": 5
+  },
+  "projectile": {
+    "item": "jeg:shotgun_shell",
+    "ejectsCasing": true,
+    "damage": 20.0,
+    "advantage": "jeg:none",
+    "size": 0.05,
+    "speed": 20.0,
+    "life": 8,
+    "trailLengthMultiplier": 2.0
+  },
+  "sounds": {
+    "fire": "mteg:item.benelli_m4.fire",
+    "reload": "jeg:item.pistol.reload",
+    "cock": "mteg:item.benelli_m4.cock"
+  },
+  "display": {
+    "flash": {
+      "yOffset": 4.0,
+      "zOffset": -13.0,
+      "size": 0.8
+    }
+  },
+  "modules": {
+    "zoom": {
+      "yOffset": 4.6,
+      "zOffset": 2.75,
+      "fovModifier": 0.6
+    },
+    "attachments": {
+      "scope": {
+        "yOffset": 4.3,
+        "zOffset": 2.2,
+        "scale": 1.5
+      },
+      "barrel": {
+        "yOffset": 3.7,
+        "zOffset": -15.5,
+        "scale": 1.5
+      },
+      "stock": {
+        "scale": 0.0
+      },
+      "underBarrel": {
+        "yOffset": 1.5,
+        "zOffset": -2.3,
+        "scale": 1.5
+      }
+    }
+  }
+}

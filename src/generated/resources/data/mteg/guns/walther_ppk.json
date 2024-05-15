@@ -1,0 +1,45 @@
+{
+  "general": {
+    "fireMode": "jeg:semi_automatic",
+    "rate": 3,
+    "gripType": "jeg:one_handed",
+    "recoilAngle": 1.0,
+    "recoilKick": 0.25,
+    "spread": 4.0
+  },
+  "reloads": {
+    "reloadItem": "jeg:scrap",
+    "maxAmmo": 6,
+    "reloadType": "jeg:mag_fed",
+    "reloadTimer": 30,
+    "emptyMagTimer": 10
+  },
+  "projectile": {
+    "item": "jeg:pistol_ammo",
+    "ejectsCasing": true,
+    "damage": 5.5,
+    "advantage": "jeg:none",
+    "size": 0.05,
+    "speed": 20.0,
+    "life": 80,
+    "trailLengthMultiplier": 2.0
+  },
+  "sounds": {
+    "fire": "mteg:item.m1911.fire",
+    "reload": "jeg:item.pistol.reload",
+    "cock": "mteg:item.m1911.cock"
+  },
+  "display": {
+    "flash": {
+      "yOffset": 3.0,
+      "zOffset": 1.5,
+      "size": 0.8
+    }
+  },
+  "modules": {
+    "zoom": {
+      "yOffset": 3.7,
+      "fovModifier": 0.7
+    }
+  }
+}

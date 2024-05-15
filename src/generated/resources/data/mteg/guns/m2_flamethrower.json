@@ -1,0 +1,53 @@
+{
+  "general": {
+    "fireMode": "jeg:automatic",
+    "rate": 1,
+    "gripType": "jeg:two_handed",
+    "recoilAngle": 1.0,
+    "recoilKick": 0.25,
+    "projectileAmount": 3,
+    "alwaysSpread": true,
+    "spread": 20.0
+  },
+  "reloads": {
+    "reloadItem": "minecraft:lava_bucket",
+    "maxAmmo": 75,
+    "reloadType": "jeg:single_item",
+    "reloadTimer": 100,
+    "emptyMagTimer": 10
+  },
+  "projectile": {
+    "item": "minecraft:magma_cream",
+    "damage": 2.0,
+    "advantage": "jeg:none",
+    "size": 0.2,
+    "speed": 2.0,
+    "life": 10,
+    "trailColor": 16765577
+  },
+  "sounds": {
+    "fire": "mteg:item.m2_flamethrower.fire",
+    "reload": "jeg:item.pistol.reload",
+    "cock": "mteg:item.m16a1.cock"
+  },
+  "display": {
+    "flash": {
+      "yOffset": 3.5,
+      "zOffset": -8.0,
+      "size": 1.0
+    }
+  },
+  "modules": {
+    "zoom": {
+      "yOffset": 5.8,
+      "zOffset": 2.75,
+      "fovModifier": 0.6
+    },
+    "attachments": {
+      "scope": {
+        "yOffset": 4.5,
+        "zOffset": 4.0
+      }
+    }
+  }
+}

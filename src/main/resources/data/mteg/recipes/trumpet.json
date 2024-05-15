@@ -1,0 +1,16 @@
+{
+    "type": "mteg:mo_workbench",
+    "result": {
+        "item": "mteg:trumpet"
+    },
+    "materials": [
+        {
+            "item": "minecraft:gold_ingot",
+            "count": 15
+        },
+        {
+            "item": "minecraft:copper_ingot",
+            "count": 10
+        }
+    ]
+}

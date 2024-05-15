@@ -1,0 +1,24 @@
+{
+    "type": "mteg:mo_workbench",
+    "result": {
+        "item": "mteg:awp"
+    },
+    "materials": [
+        {
+          "item": "minecraft:iron_ingot",
+          "count": 28
+		},
+        {
+          "item": "jeg:scrap",
+          "count": 20
+        },
+		{
+            "item": "minecraft:lever",
+            "count": 1
+        },
+        {
+            "item": "minecraft:sandstone",
+            "count": 10
+        }
+    ]
+}

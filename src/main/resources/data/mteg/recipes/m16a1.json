@@ -1,0 +1,24 @@
+{
+    "type": "mteg:mo_workbench",
+    "result": {
+        "item": "mteg:m16a1"
+    },
+    "materials": [
+        {
+            "item": "minecraft:iron_ingot",
+            "count": 25
+        },
+        {
+            "item": "jeg:scrap",
+            "count": 13
+        },
+        {
+            "item": "minecraft:repeater",
+            "count": 1
+        },
+        {
+            "item": "minecraft:black_dye",
+            "count": 4
+        }
+    ]
+}

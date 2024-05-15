@@ -1,0 +1,20 @@
+{
+    "type": "mteg:mo_workbench",
+    "result": {
+        "item": "mteg:ppsh_41"
+    },
+    "materials": [
+        {
+            "item": "minecraft:spruce_planks",
+            "count": 2
+        },
+        {
+            "item": "jeg:scrap",
+            "count": 9
+        },
+	{
+            "item": "minecraft:iron_ingot",
+            "count": 10
+        }
+    ]
+}

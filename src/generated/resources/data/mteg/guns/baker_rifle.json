@@ -1,0 +1,46 @@
+{
+  "general": {
+    "fireMode": "jeg:semi_automatic",
+    "rate": 17,
+    "gripType": "jeg:two_handed",
+    "recoilAngle": 7.0,
+    "recoilKick": 0.55,
+    "alwaysSpread": true,
+    "spread": 4.0
+  },
+  "reloads": {
+    "reloadItem": "jeg:scrap",
+    "maxAmmo": 1,
+    "reloadType": "jeg:mag_fed",
+    "reloadTimer": 100,
+    "emptyMagTimer": 5
+  },
+  "projectile": {
+    "item": "jeg:rifle_ammo",
+    "damage": 18.0,
+    "advantage": "jeg:none",
+    "size": 0.2,
+    "speed": 30.0,
+    "life": 50,
+    "trailLengthMultiplier": 2.0
+  },
+  "sounds": {
+    "fire": "mteg:item.baker_rifle.fire",
+    "reload": "jeg:item.pistol.reload",
+    "cock": "mteg:item.baker_rifle.cock"
+  },
+  "display": {
+    "flash": {
+      "yOffset": 3.4,
+      "zOffset": -12.0,
+      "size": 1.0
+    }
+  },
+  "modules": {
+    "zoom": {
+      "yOffset": 3.9,
+      "zOffset": 2.75,
+      "fovModifier": 0.6
+    }
+  }
+}

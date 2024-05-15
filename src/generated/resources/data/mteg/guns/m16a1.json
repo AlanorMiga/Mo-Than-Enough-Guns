@@ -1,0 +1,46 @@
+{
+  "general": {
+    "fireMode": "jeg:automatic",
+    "rate": 3,
+    "gripType": "jeg:two_handed",
+    "recoilAngle": 2.0,
+    "recoilKick": 0.15,
+    "alwaysSpread": true,
+    "spread": 3.0
+  },
+  "reloads": {
+    "reloadItem": "jeg:scrap",
+    "maxAmmo": 20,
+    "reloadType": "jeg:mag_fed",
+    "reloadTimer": 30,
+    "emptyMagTimer": 10
+  },
+  "projectile": {
+    "item": "jeg:rifle_ammo",
+    "damage": 7.5,
+    "advantage": "jeg:none",
+    "size": 0.2,
+    "speed": 30.0,
+    "life": 100,
+    "trailLengthMultiplier": 2.0
+  },
+  "sounds": {
+    "fire": "mteg:item.m16a1.fire",
+    "reload": "jeg:item.pistol.reload",
+    "cock": "mteg:item.m16a1.cock"
+  },
+  "display": {
+    "flash": {
+      "yOffset": 3.5,
+      "zOffset": -12.0,
+      "size": 1.0
+    }
+  },
+  "modules": {
+    "zoom": {
+      "yOffset": 6.25,
+      "zOffset": 2.75,
+      "fovModifier": 0.6
+    }
+  }
+}

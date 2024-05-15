@@ -1,0 +1,47 @@
+{
+  "general": {
+    "fireMode": "jeg:automatic",
+    "rate": 3,
+    "gripType": "jeg:two_handed",
+    "recoilAngle": 4.0,
+    "recoilKick": 0.25,
+    "alwaysSpread": true,
+    "spread": 2.0
+  },
+  "reloads": {
+    "reloadItem": "jeg:scrap",
+    "maxAmmo": 32,
+    "reloadType": "jeg:mag_fed",
+    "reloadTimer": 30,
+    "emptyMagTimer": 10
+  },
+  "projectile": {
+    "item": "jeg:pistol_ammo",
+    "ejectsCasing": true,
+    "damage": 6.5,
+    "advantage": "jeg:none",
+    "size": 0.05,
+    "speed": 20.0,
+    "life": 80,
+    "trailLengthMultiplier": 2.0
+  },
+  "sounds": {
+    "fire": "mteg:item.lanchester.fire",
+    "reload": "jeg:item.pistol.reload",
+    "cock": "mteg:item.lanchester.cock"
+  },
+  "display": {
+    "flash": {
+      "yOffset": 3.2,
+      "zOffset": -4.0,
+      "size": 0.8
+    }
+  },
+  "modules": {
+    "zoom": {
+      "yOffset": 4.0,
+      "zOffset": 2.75,
+      "fovModifier": 0.6
+    }
+  }
+}

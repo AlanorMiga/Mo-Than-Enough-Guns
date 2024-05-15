@@ -1,0 +1,53 @@
+{
+  "general": {
+    "fireMode": "jeg:semi_automatic",
+    "rate": 3,
+    "gripType": "jeg:one_handed",
+    "recoilAngle": 2.0,
+    "recoilKick": 0.25,
+    "spread": 3.0
+  },
+  "reloads": {
+    "reloadItem": "jeg:scrap",
+    "maxAmmo": 17,
+    "reloadType": "jeg:mag_fed",
+    "reloadTimer": 30,
+    "emptyMagTimer": 10
+  },
+  "projectile": {
+    "item": "jeg:pistol_ammo",
+    "ejectsCasing": true,
+    "damage": 6.0,
+    "advantage": "jeg:none",
+    "size": 0.05,
+    "speed": 20.0,
+    "life": 80,
+    "trailLengthMultiplier": 2.0
+  },
+  "sounds": {
+    "fire": "mteg:item.glock_17.fire",
+    "reload": "jeg:item.pistol.reload",
+    "cock": "mteg:item.glock_17.cock",
+    "silencedFire": "mteg:item.glock_17.suppressed_fire"
+  },
+  "display": {
+    "flash": {
+      "yOffset": 2.9,
+      "zOffset": 1.5,
+      "size": 0.8
+    }
+  },
+  "modules": {
+    "zoom": {
+      "yOffset": 3.7,
+      "fovModifier": 0.7
+    },
+    "attachments": {
+      "barrel": {
+        "yOffset": 2.9,
+        "zOffset": -3.0,
+        "scale": 1.5
+      }
+    }
+  }
+}

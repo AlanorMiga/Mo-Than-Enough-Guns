@@ -1,0 +1,28 @@
+{
+    "type": "mteg:mo_workbench",
+    "result": {
+        "item": "mteg:scar_l"
+    },
+    "materials": [
+        {
+            "item": "minecraft:iron_ingot",
+            "count": 22
+        },
+        {
+            "item": "jeg:scrap",
+            "count": 13
+        },
+        {
+            "item": "minecraft:yellow_dye",
+            "count": 2
+        },
+        {
+            "item": "minecraft:black_dye",
+            "count": 2
+        },
+        {
+            "item": "minecraft:cut_sandstone",
+            "count": 6
+        }
+    ]
+}

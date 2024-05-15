@@ -1,0 +1,52 @@
+{
+  "general": {
+    "fireMode": "jeg:automatic",
+    "rate": 2,
+    "gripType": "jeg:two_handed",
+    "recoilAngle": 3.0,
+    "recoilKick": 0.15,
+    "alwaysSpread": true,
+    "spread": 3.0
+  },
+  "reloads": {
+    "reloadItem": "jeg:scrap",
+    "maxAmmo": 20,
+    "reloadType": "jeg:mag_fed",
+    "reloadTimer": 30,
+    "emptyMagTimer": 10
+  },
+  "projectile": {
+    "item": "jeg:pistol_ammo",
+    "ejectsCasing": true,
+    "damage": 6.0,
+    "advantage": "jeg:none",
+    "size": 0.05,
+    "speed": 16.0,
+    "life": 80,
+    "trailLengthMultiplier": 2.0
+  },
+  "sounds": {
+    "fire": "mteg:item.thompson.fire",
+    "reload": "jeg:item.pistol.reload",
+    "cock": "mteg:item.thompson.cock"
+  },
+  "display": {
+    "flash": {
+      "yOffset": 3.6,
+      "zOffset": -6.41,
+      "size": 0.8
+    }
+  },
+  "modules": {
+    "zoom": {
+      "yOffset": 4.65,
+      "zOffset": 2.75,
+      "fovModifier": 0.6
+    },
+    "attachments": {
+      "underBarrel": {
+        "scale": 0.0
+      }
+    }
+  }
+}

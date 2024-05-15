@@ -1,0 +1,56 @@
+{
+  "general": {
+    "fireMode": "jeg:automatic",
+    "rate": 2,
+    "gripType": "jeg:two_handed",
+    "recoilAngle": 4.0,
+    "recoilKick": 0.25,
+    "alwaysSpread": true,
+    "spread": 6.0
+  },
+  "reloads": {
+    "reloadItem": "jeg:scrap",
+    "maxAmmo": 18,
+    "reloadType": "jeg:mag_fed",
+    "reloadTimer": 30,
+    "emptyMagTimer": 20
+  },
+  "projectile": {
+    "item": "mteg:taki",
+    "damage": 3.0,
+    "advantage": "jeg:none",
+    "size": 0.05,
+    "speed": 7.0,
+    "life": 100,
+    "trailLengthMultiplier": 2.0
+  },
+  "sounds": {
+    "fire": "mteg:item.hellfire.fire",
+    "reload": "jeg:item.pistol.reload",
+    "cock": "mteg:item.m16a1.cock"
+  },
+  "display": {
+    "flash": {
+      "yOffset": 2.9,
+      "zOffset": -8.41,
+      "size": 1.0
+    }
+  },
+  "modules": {
+    "zoom": {
+      "yOffset": 5.8,
+      "zOffset": 2.75,
+      "fovModifier": 0.6
+    },
+    "attachments": {
+      "stock": {
+        "scale": 0.0
+      },
+      "underBarrel": {
+        "yOffset": 1.0,
+        "zOffset": -1.0,
+        "scale": 0.0
+      }
+    }
+  }
+}
